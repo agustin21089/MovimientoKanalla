@@ -1,0 +1,244 @@
+.home-page-template {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100wh;
+}
+
+.home-page-template .overlap-wrapper {
+    overflow: hidden;
+    width: 100vw;
+    height: 1173px;
+}
+
+.home-page-template .overlap {
+    position: relative;
+    width: 100%;
+    height: 11219px;
+}
+
+.home-page-template .footer {
+    position: absolute;
+    width: 1914px;
+    height: 11219px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.home-page-template .hero-section {
+    position: absolute;
+    width: 1916px;
+    height: 1006px;
+    top: 167px;
+    left: 0;
+}
+
+.home-page-template .overlap-group {
+    position: relative;
+    width: 1914px;
+    height: 1006px;
+    background-color: #18587a;
+}
+
+.home-page-template .image-box {
+    position: absolute;
+    width: 897px;
+    height: 1006px;
+    top: 0;
+    left: 1017px;
+    background-color: #c4c4c4;
+}
+
+.home-page-template .variations {
+    position: absolute;
+    width: 260px;
+    height: 78px;
+    top: 848px;
+    left: 81px;
+}
+
+.home-page-template .button-text-wrapper {
+    position: relative;
+    width: 258px;
+    height: 78px;
+    border-radius: 14.01px;
+    border: 1.4px solid;
+    border-color: #ffffff;
+}
+
+.home-page-template .button-text {
+    position: absolute;
+    top: 20px;
+    left: 75px;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25.2px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-page-template .many-desktop {
+    position: absolute;
+    width: 305px;
+    height: 78px;
+    top: 848px;
+    left: 380px;
+}
+
+.home-page-template .div-wrapper {
+    position: relative;
+    width: 303px;
+    height: 78px;
+    background-color: #fad91f;
+    border-radius: 14.01px;
+}
+
+.home-page-template .text-wrapper {
+    top: 19px;
+    left: 31px;
+    font-family: "Alata-Regular", Helvetica;
+    color: #18587a;
+    font-size: 28.2px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page-template .description {
+    position: absolute;
+    width: 719px;
+    height: 558px;
+    top: 241px;
+    left: 81px;
+    font-family: "Playfair Display-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32.9px;
+    letter-spacing: 0;
+    line-height: 55.8px;
+}
+
+.home-page-template .span {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.home-page-template .text-wrapper-2 {
+    font-family: "Playfair Display-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.home-page-template .text-wrapper-3 {
+    font-family: "Salsa-Regular", Helvetica;
+    color: #fad91f;
+    font-size: 37px;
+}
+
+.home-page-template .navigation-bar {
+    position: absolute;
+    width: 438px;
+    height: 78px;
+    top: 41px;
+    left: 1383px;
+}
+
+.home-page-template .social-media-icons {
+    position: absolute;
+    width: 131px;
+    height: 29px;
+    top: 25px;
+    left: 307px;
+}
+
+.home-page-template .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 260px;
+    height: 78px;
+    top: 0;
+    left: 0;
+}
+
+.home-page-template .div {
+    position: relative;
+    width: 258px;
+    height: 78px;
+    background-color: #104179;
+    border-radius: 14.01px;
+}
+
+.home-page-template .button-text-2 {
+    top: 22px;
+    left: 73px;
+    font-family: "ABeeZee-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 25.2px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page-template .title {
+    position: absolute;
+    height: 147px;
+    top: 211px;
+    left: 81px;
+    font-family: "Playfair Display-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 51.4px;
+    letter-spacing: 0;
+    line-height: 81.3px;
+}
+
+.home-page-template .text-wrapper-4 {
+    font-family: var(--kanalla-font-family);
+    color: #fad91f;
+    font-size: var(--kanalla-font-size);
+    font-style: var(--kanalla-font-style);
+    font-weight: var(--kanalla-font-weight);
+    letter-spacing: var(--kanalla-letter-spacing);
+    line-height: var(--kanalla-line-height);
+}
+
+.home-page-template .perfil {
+    position: absolute;
+    width: 1008px;
+    height: 1008px;
+    top: 167px;
+    left: 906px;
+    background: linear-gradient(
+            262deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(16, 65, 121, 1) 48%,
+            rgba(250, 217, 31, 1) 97%
+        ), linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+.home-page-template .escudo-pueblo-canaya {
+    position: absolute;
+    width: 623px;
+    height: 687px;
+    top: 160px;
+    left: 192px;
+}
+
+.home-page-template .logo {
+    position: absolute;
+    width: 350px;
+    height: auto;
+    top: 11px;
+    left: 87px;
+}
+
+
+.
